@@ -2,6 +2,7 @@
 
 This is an MVC template to easily create and get started with Java GUI Desktop applications.
 
+> **This is NOT a final version, there may be further improvements and additions.**
 
 ## Folder Structure
 
